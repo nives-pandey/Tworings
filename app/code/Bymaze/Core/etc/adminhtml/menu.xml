@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Bymaze_Core::bymaze" title="Bymaze" module="Bymaze_Core" sortOrder="51" resource="Bymaze_Core::bymaze" dependsOnConfig="bymaze/general/enable_core"/>
+       
+    </menu>
+</config>

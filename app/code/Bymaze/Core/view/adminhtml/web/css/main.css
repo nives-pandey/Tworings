@@ -1,0 +1,5 @@
+#menu-bymaze-core-menu > a:before {
+    content: '';
+    background:  url('../images/stx.png') no-repeat center;
+    background-size: contain;
+}
