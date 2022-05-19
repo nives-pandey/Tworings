@@ -7,10 +7,10 @@
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
     <default>
-        <bymaze_checkout>
+        <bymaze_listing>
             <module>
                 <enable>1</enable>
             </module>
-        </bymaze_checkout>
+        </bymaze_listing>
     </default>
 </config>
